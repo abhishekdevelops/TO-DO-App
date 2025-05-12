@@ -21,7 +21,7 @@ In this To-Do application, you'll learn how to:
 - Dynamically update and toggle elements on the page
 
 ## 🔗 View Demo
-[Live Demo] (https://abhishekdevelops.github.io/To-Do-App)
+[Click here to open the demo](https://abhishekdevelops.github.io/To-Do-App)
 
 ## 🏆 Part of FreeCodeCamp Project  
 This project is part of the **JavaScript Algorithms and Data Structures Certification** by [FreeCodeCamp](https://www.freecodecamp.org/).
