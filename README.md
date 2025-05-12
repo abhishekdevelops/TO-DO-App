@@ -24,4 +24,4 @@ In this To-Do application, you'll learn how to:
 [Click here to open the demo](https://abhishekdevelops.github.io/To-Do-App)
 
 ## 🏆 Part of FreeCodeCamp Project  
-This project is part of the **JavaScript Algorithms and Data Structures Certification** by [FreeCodeCamp](https://www.freecodecamp.org/).
+This project is part of the **JavaScript Algorithms and Data Structures Certification** by [freeCodeCamp](https://www.freecodecamp.org/).
